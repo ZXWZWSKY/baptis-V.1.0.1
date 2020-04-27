@@ -5,7 +5,7 @@
 /////zxgans.tld@gmail.com//////
 ///////////////////////////////////////
 
-include 'tri_req.php';
+include 'Tri_jancok.php';
 
 $tri = new tri();
 $imei = "868880043302499";
